@@ -1,5 +1,5 @@
 ```
-my-project/
+my-project//
     ├── src/
     │   ├── components/
     │   │   ├── Button.tsx
