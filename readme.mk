@@ -12,5 +12,5 @@ my-project/
     │   ├── favicon.ico
     │   └── index.html
     ├── package.json
-    └── README.md
+    └── readme.md
 ```
